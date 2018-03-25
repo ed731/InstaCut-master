@@ -16,4 +16,7 @@
 
     <string name="insta">NSTA</string>
     <string name="cut">UT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
 </resources>
